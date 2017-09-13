@@ -38,7 +38,7 @@ public class Sysset extends AppCompatActivity {
 
                 }
 
-                //弹出信息提示22222
+                //弹出信息提示
                 Toast.makeText(Sysset.this,"［密码］设置成功！",Toast.LENGTH_SHORT).show();
 
             }
